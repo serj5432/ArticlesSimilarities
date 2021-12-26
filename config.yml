@@ -1,0 +1,4 @@
+data_path: ./data/russian articles
+language: ru
+min_sent_len: 10
+
