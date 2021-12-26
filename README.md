@@ -1,13 +1,13 @@
 # ArticlesSimilarities
 
-Finds simlar artcles among webpages using pretrained models for Russian and English. 
+Finds similar artcles among webpages using pretrained models for Russian and English. 
 Check https://github.com/RaRe-Technologies/gensim-data
 
 ## Installation
 
 Steps:
 
-1. Please, use python 3.9 ot higher
+1. Please, use python 3.9 or higher
 2. Insall dependencies using requirements.txt
 3. Download NLTK resources via Python cmd:
 
