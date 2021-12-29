@@ -8,7 +8,7 @@ Check https://github.com/RaRe-Technologies/gensim-data
 Steps:
 
 1. Please, use python 3.9 or higher
-2. Insall dependencies using requirements.txt
+2. Install dependencies using requirements.txt
 3. Download NLTK resources via Python cmd:
 
 ```python
