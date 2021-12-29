@@ -1,4 +1,5 @@
-data_path: ./data/russian articles
-language: ru
+url_list: ./data/football_vs_movies.txt
+language: en
 min_sent_len: 10
+n_closest: 3 
 
