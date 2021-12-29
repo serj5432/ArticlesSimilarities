@@ -28,4 +28,6 @@ nltk.download('averaged_perceptron_tagger')
 		
 5. run main.py
 
+6. Test result is in text file result.txt using ./data/football_vs_movies.txt file as input in config file
+
 
