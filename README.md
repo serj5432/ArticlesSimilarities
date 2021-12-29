@@ -21,10 +21,11 @@ nltk.download('averaged_perceptron_tagger')
 ```
 
 4. config.yml:
-		* url_list - path to url list
-		* language - either 'ru' or 'en'
-		* min_sent_len - minimum sentence len to be processed 
-		* n_closest - n closest articles to current article
+
+* url_list - path to url list
+* language - either 'ru' or 'en'
+* min_sent_len - minimum sentence len to be processed 
+* n_closest - n closest articles to current article
 		
 5. run main.py
 
