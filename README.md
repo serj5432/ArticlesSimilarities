@@ -1,6 +1,6 @@
 # ArticlesSimilarities
 
-Finds similar artcles among webpages using pretrained models for Russian and English. 
+Finds similar articles among webpages using pretrained models for Russian and English. 
 Check https://github.com/RaRe-Technologies/gensim-data
 
 ## Installation
